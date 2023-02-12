@@ -1,5 +1,11 @@
 .vscode
 .ipynb_checkpoints
+temp
 /imdb_sgmentation_detail.ipynb
 /imdb.py
+/wordEmbedding.ipynb
+/GPT2.ipynb
+/autoregression.ipynb
+/LSTM_imdb.ipynb
+/try.py
 
